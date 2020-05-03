@@ -1,1 +1,6 @@
 This is the first file in the dev environment and i need to merge thisto the production master branch and also need to look for merging of branches
+
+This is the first file in the dev environment and i need to merge thisto the production master branch and also need to look for merging of bbranches
+
+iafter succesfull merge is donw now we need to check for after merge
+what next is gona happen to our repository
