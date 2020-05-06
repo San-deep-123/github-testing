@@ -1,2 +1,3 @@
-This is dev environment and i am doing certain changes to see them getreflected
+This is dev environment and i am doing certain changes to see them get reflected
 Need to see and learn more of a Git as a Tools
+Today along with Git i have a fellow tool such as Jenkins
