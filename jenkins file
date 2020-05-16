@@ -24,5 +24,13 @@ steps
 echo 'This is end'
 }  
 }
+stage('Stage 4')
+{      
+steps
+{  
+echo 'Again a pipeline will start'
+}  
+}
+
 }
 }
