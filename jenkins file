@@ -17,11 +17,6 @@ steps
 echo 'This is me sandy the host'
 }  
 }
-stage('Stage 3')
-{      
-steps
-{  
-echo 'This is end'
 }  
 }
 stage('Stage 4')
