@@ -17,8 +17,6 @@ steps
 echo 'This is me sandy the host'
 }  
 }
-}  
-}
 stage('Stage 4')
 {      
 steps
@@ -26,6 +24,5 @@ steps
 echo 'Again a pipeline will start'
 }  
 }
-
 }
 }
